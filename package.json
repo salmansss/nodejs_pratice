@@ -1,0 +1,19 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "My first nodejs tutorial",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salmansss/nodejs_pratice.git"
+  },
+  "author": "Salman Shaikh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/salmansss/nodejs_pratice/issues"
+  },
+  "homepage": "https://github.com/salmansss/nodejs_pratice#readme"
+}
